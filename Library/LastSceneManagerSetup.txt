@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/MainMenuuuuu.unity
+  isLoaded: 1
+  isActive: 0
+- path: Assets/ScanningTarget.unity
+  isLoaded: 1
+  isActive: 1
